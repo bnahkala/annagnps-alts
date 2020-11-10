@@ -8,8 +8,7 @@ Scripts used to run 42 different land management scenarios for multiple prairie 
 
 A script for running AnnAGNPS 11 year simulation while modifying fertilizer and k20 wetland nitrate decay rates in the model. This is the preliminary check to evaluate AnnAGNPS ability to model nutrient data, of which we have monitored samples from 2016-2018. 
 
-Used in the following. 
+Used in the following: 
 
-Nahkala, B.A. (2020). Watershed modeling and random forest flood risk classification of farmed prairie potholes. Master's thesis. ISU Digital Repository. 19114. 
-
-Nahkala, B.A., Kaleita, A.L., and Soupir, M.L. Characterization of prairie pothole inundation using AnnAGNPS under varying management and drainage scenarios. Agricultural Water Management. *In Review.* 
+- Nahkala, B.A. (2020). Watershed modeling and random forest flood risk classification of farmed prairie potholes. Master's thesis. ISU Digital Repository. 19114. 
+- Nahkala, B.A., Kaleita, A.L., and Soupir, M.L. Characterization of prairie pothole inundation using AnnAGNPS under varying management and drainage scenarios. Agricultural Water Management. *In Review.* 
