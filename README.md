@@ -12,4 +12,4 @@ Used in the following.
 
 Nahkala, B.A. (2020). Watershed modeling and random forest flood risk classification of farmed prairie potholes. Master's thesis. ISU Digital Repository. 19114. 
 
-Nahkala, B.A., Kaleita, A.L., and Soupir, M.L. Characterization of prairie pothole inundation using AnnAGNPS under varying management and drainage scenarios. Agricultural Water Management. *In Review. 
+Nahkala, B.A., Kaleita, A.L., and Soupir, M.L. Characterization of prairie pothole inundation using AnnAGNPS under varying management and drainage scenarios. Agricultural Water Management. *In Review.* 
